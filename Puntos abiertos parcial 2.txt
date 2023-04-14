@@ -1,0 +1,44 @@
+//Escriba la definición de una función en javascript que reciba un arreglo de elementos de tipo entero y retorne el elemento de menor valor.
+
+A[]
+X=99999
+L=A[].length
+for(i=0;i++:i<L){
+if(X>I[i]){
+
+X=A[I]
+
+}
+}
+
+return X
+
+//Escriba la definición de una función en javascript que reciba un vector 3D cualquiera como parámetro (interpretarlo como mejor lo considere) y retorne si el mismo es o no paralelo a uno de los ejes principales (X, Y o Z).
+
+Par=false
+V[]
+v1=(0,0,0)
+v2=(0,0,0)
+L=V[].length
+for(i=0,i++,1<L){
+
+if(v1(0)=v2(0)){
+
+Par=true;}
+
+if(v1(1)=v2(1)){
+
+Par=true}
+
+if(v1(2)=v2(2)){
+
+Par=true}
+
+}
+
+return Par
+
+
+
+
+
